@@ -1,2 +1,1 @@
-# WorkdayCalculator
-Calculate the next working day
+# Springboot setup with Swagger3 and H2 integration
